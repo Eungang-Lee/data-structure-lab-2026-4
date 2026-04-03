@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\USER\Documents\data-structure-lab-2026-4\Lec4_Class_Example\Lec4_Class_Example\Rectangle.h(8,32): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\USER\Documents\data-structure-lab-2026-4\Lec4_Class_Example\Lec4_Class_Example\Rectangle.h(11,2): warning C4183: 'Rectangle': 반환 형식이 없습니다. 'int'를 반환하는 멤버 함수로 간주됩니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\USER\Documents\data-structure-lab-2026-4\Lec4_Class_Example\Lec4_Class_Example\Pet.h(2,10): error C1083: 포함 파일을 열 수 없습니다. 'iosteam': No such file or directory
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
