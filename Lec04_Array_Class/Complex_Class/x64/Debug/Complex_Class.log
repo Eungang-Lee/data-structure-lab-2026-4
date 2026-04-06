@@ -1,0 +1,3 @@
+﻿  Complex.cpp
+C:\Users\88riv\Desktop\data-structure-lab-2026-4\Lec04_Array_Class\Complex_Class\Complex.cpp(2,6): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Complex_Class.vcxproj -> C:\Users\88riv\Desktop\data-structure-lab-2026-4\Lec04_Array_Class\x64\Debug\Complex_Class.exe
