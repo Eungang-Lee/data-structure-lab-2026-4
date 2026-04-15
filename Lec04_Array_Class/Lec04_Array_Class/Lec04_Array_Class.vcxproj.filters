@@ -15,12 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Complex.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="ComplexTest.cpp">
+    <ClCompile Include="Lec04_Array.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

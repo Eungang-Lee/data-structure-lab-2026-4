@@ -1,3 +1,2 @@
-﻿  ComplexTest.cpp
-C:\Users\USER\Desktop\data_structure_lab_2026_4\Lec04_Array_Class\Lec04_Array_Class\ComplexTest.cpp(3,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
-  Lec04_Array_Class.vcxproj -> C:\Users\USER\Desktop\data_structure_lab_2026_4\Lec04_Array_Class\x64\Debug\Lec04_Array_Class.exe
+﻿  Lec04_Array.cpp
+  Lec04_Array_Class.vcxproj -> C:\Users\88riv\Desktop\data-structure-lab-2026-4\Lec04_Array_Class\x64\Debug\Lec04_Array_Class.exe
